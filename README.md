@@ -9,9 +9,10 @@ MSc Computer Science Student
 - 🗯  Ask me about data science.
 - 📲 You can reach me at:
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sriram-ravichan/)
-<a href="mailto:sriramravichan@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-badge&logo=gmail&logoColor=white" />](mailto:sriramravichan@gmail.com)
+
   
-- ⚡ Fun fact: I know Japanese. And i don't have Instagram Account
+- ⚡ Fun fact: I know Japanese. And i don't have Instagram Account.
 
 ### I code in
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="50" height="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="50" height="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="50" height="50" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/> 
