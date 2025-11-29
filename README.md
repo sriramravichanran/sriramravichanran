@@ -9,7 +9,8 @@ MSc Computer Science Student
 - 🗯  Ask me about data science.
 - 📲 You can reach me at:
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sriram-ravichan/)
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-badge&logo=gmail&logoColor=white" />](mailto:sriramravichan@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sriramravichan@gmail.com)
+
 
   
 - ⚡ Fun fact: I know Japanese. And i don't have Instagram Account.
