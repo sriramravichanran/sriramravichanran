@@ -1,4 +1,4 @@
-
+# Welcome to my Gitup profie
 ## Hi there 👋 It's me Sriram
 
 MSc Computer Science Student
