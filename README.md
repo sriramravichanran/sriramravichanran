@@ -13,6 +13,7 @@ MSc Computer Science Student
 
 
 
+
   
 - ⚡ Fun fact: I know Japanese (N5,N4) . And i don't have Instagram Account.
 
