@@ -9,7 +9,6 @@ MSc Computer Science Student
 - 🗯  Ask me about data science.
 - 📲 You can reach me at:
      <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sriram-ravichan/)
-- 
 
 
 
