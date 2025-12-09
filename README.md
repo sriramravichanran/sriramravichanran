@@ -1,4 +1,4 @@
-# Welcome to my Gitup profie
+# Welcome to my GitHub Profie
 ## Hi there 👋 It's me Sriram
 
 MSc Computer Science Student
@@ -7,12 +7,6 @@ MSc Computer Science Student
 - 👯 I’m looking to collaborate on projects related to ML and AI.
 - 🤔 I'm looking for support to prepare for FAANG placements.
 - 🗯  Ask me about data science.
-- 📲 You can reach me at:
-     <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sriram-ravichan/)
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriramravichan@gmail.com)
-
-
-
 
 
   
