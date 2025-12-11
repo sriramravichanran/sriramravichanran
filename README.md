@@ -7,8 +7,7 @@ MSc Computer Science Student
 - 👯 I’m looking to collaborate on projects related to ML and AI.
 - 🤔 I'm looking for support to prepare for FAANG placements.
 -   jjgfjdjfhbbs bsjbdfnsnvddghfvfjjdusuh  hello every onr n hlkisd how are you  c=higuys h fjhf
--   hello every oe i m  sriram i  looking  for a  job idfdd efeeewfergwa efef efd ddwd  wdcv  dffd  fefefd  e erdfd   efefe   efefe fefefdv efefefe fef
--   hfd  dhfdhf shbbsbhd s hbsdhshdbs bshdshfvvdba gdgfhq ew wy
+-   hello every oe i m  sriram i  looking  for a  job idfdd efeeewfergwa efef efd ddwd  wdcv  dffd  fefef
 - 🗯  Ask me about data science.
 
 
