@@ -8,7 +8,7 @@ MSc Computer Science Student
 - 🤔 I'm looking for support to prepare for FAANG placements.
 -   jjgfjdjfhbbs bsjbdfnsnvddghfvfjjdusuh  hello every onr n hlkisd how are you  c=higuys h fjhf
 -   hello every oe i m  sriram i  looking  for a  job idfdd efeeewfergwa efef efd ddwd  wdcv  dffd  fefefd  e erdfd   efefe   efefe fefefdv efefefe fef
--   hfd  dhfdhf shbbsbhd s hbsdhshdbs bshdshfvvdba gdgfhq ew wyywhaids  d usgddhsb ysdg s ydgcbvdfd sdgygds   h dvs ysfdd h
+-   hfd  dhfdhf shbbsbhd s hbsdhshdbs bshdshfvvdba gdgfhq ew wy
 - 🗯  Ask me about data science.
 
 
