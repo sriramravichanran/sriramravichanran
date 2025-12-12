@@ -7,8 +7,9 @@ MSc Computer Science Student
 - 👯 I’m looking to collaborate on projects related to ML and AI.
 - 🤔 I'm looking for support to prepare for FAANG placements.
 - 🗯  Ask me about data science.
-- ejtghhf  hgbdjughfj hrhweb  jbhfhf fjbf  bqba  jrfthgdihdhgdsusgf fjhjsh  a wjhqnwb dsfbu48rhe9e9rrbnfjb fjdfh fjdfdjd jd  djgdjnnfjdbjbfjddjffffffffffffffffffugfeiuuuuuuuuuuuufhurrrrgrurrrrrrrrrrrrrr
-  <img align="left" width="380" heifht="250"  src="https://i.pinnimg.cpm/originals/47/f0/34/47f0342cec72bb800463bf003eac1257e.gif">
+- ejtghhf  hgbdjughfj hrhweb  jbhfhf fjbf  bqba  jrfthgdihdhgdsusgf fjhjsh  a wjhqnwb dsfbu48rhe9e9rrbnfjb fjdfh fjdfdjd jd  djgdjnnfjdbjbfjddjffffffffffffffffffugfeiuuuuuuuuuuuufhurrrrgrurrrrrrrrrrrrr
+- bhbfnn   jefefjubfbfbfhenfnjedenjw   wjbbw jhwjfjefen
+- nf fhbbfbhe fjfdsdfso  that  is th e reason  aso  that  i  very  busy ybfggf  so  i  will  bback  later  see  you  yoo
 
 
   
