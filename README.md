@@ -12,11 +12,7 @@ kjhrjtjerk ljrgjrigngngegg
 egkgnenqigeig
 gergekrgeg
 rjgeg
-egherg
-ergherg
-ergehrg
-
-egwggh
+egher
 rgghrghhrgerg
 rg
 wg
