@@ -8,7 +8,7 @@ MSc Computer Science Student
 - 🤔 I'm looking for support to prepare for FAANG placements.
 - 🗯  Ask me about data science. 
 - ⚡ Fun fact: I know Japanese (N5,N4) . And i don't have Instagram Account.
- 
+ fjuhg
 
 ### I code in 
 
