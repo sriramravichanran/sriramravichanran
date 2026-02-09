@@ -5,7 +5,7 @@ MSc Computer Science Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                               
 - 🌱 I’m currently learning Data Science.  
 - 👯 I’m looking to collaborate on projects related to ML and AI.
-- 🤔 I'm looking for support to prepare for FAANG placements.
+- 🤔 I'm looking for support to prepare for FAANG placements 
 - 🗯  Ask me about data science. 
 - ⚡ Fun fact: I know Japanese (N5,N4) . And i don't have Instagram Account.
 
