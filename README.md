@@ -8,6 +8,7 @@ MSc Computer Science Student
 - 🤔 I'm looking for support to prepare for FAANG placements.
 - 🗯  Ask me about data science. 
 - ⚡ Fun fact: I know Japanese (N5,N4) . And i don't have Instagram Account.
+- 📫 How to reach me **sriramravichan@gmail.com**
 
 
 ### I code in 
@@ -18,7 +19,7 @@ MSc Computer Science Student
 <img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/machine-learning.png" alt="machine-learning"/> <img width="50" height="50" src="https://img.icons8.com/color/48/electronic-brain.png" alt="electronic-brain"/>  <img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons.png" alt="external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons"/> <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/bard.png" alt="bard"/>
 
 
-- 📫 How to reach me **sriramravichan@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
