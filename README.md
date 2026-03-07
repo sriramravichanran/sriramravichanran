@@ -22,5 +22,5 @@ MSc Computer Science Student
 
 
 
-<h3 align="left">Connect with me:
+>Connect with me:
 
