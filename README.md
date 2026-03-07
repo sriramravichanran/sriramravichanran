@@ -22,5 +22,5 @@ MSc Computer Science Student
 
 
 
->Connect with me:
+onnect with me:
 
