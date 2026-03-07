@@ -22,5 +22,5 @@ MSc Computer Science Student
 
 
 
-onnect with me:
+ith me:
 
