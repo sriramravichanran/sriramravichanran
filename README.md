@@ -10,7 +10,7 @@ MSc Computer Science Student
 - ⚡ Fun fact: I know Japanese (N5,N4) . And i don't have Instagram Account.
     
 ### I code in   
-  
+   
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/ms-excel.png" alt="ms-excel"/> <img width="50" height="50" src="https://img.icons8.com/color/48/statistics.png" alt="statistics"/> 
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/> 
 <img width="50" height="50" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> 
