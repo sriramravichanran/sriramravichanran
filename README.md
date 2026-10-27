@@ -19,8 +19,7 @@ MSc Computer Science Student
 <img width="50" height="50" src="https://img.icons8.com/color/48/electronic-brain.png" alt="electronic-brain"/>  
 <img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons.png" alt="external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons"/>
 <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/bard.png" alt="bard"/>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -32,8 +31,60 @@ MSc Computer Science Student
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sriram-ravichan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sriram-ravichan/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/zttriii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zttriii" height="30" width="40" /></a>
-</p>
+
+---
+
+## 🧠 Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00897B?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-FF6F00?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Chatbot
+An AI chatbot project focused on conversational AI.
+
+### 📚 Course-Knowledge-Assistant-RAG
+A project focused on Retrieval-Augmented Generation (RAG) for accessing course-related knowledge.
+
+### ⚡ FastAPI
+A project related to developing applications and APIs using FastAPI.
+
+🔗 [Explore My Repositories](https://github.com/sriramravichanran?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramravichanran&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sriramravichanran&theme=dark&hide_border=true)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramravichanran&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sriram-ravichan/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github)](https://github.com/sriramravichanran)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
