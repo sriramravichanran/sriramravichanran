@@ -61,21 +61,6 @@ A project related to developing applications and APIs using FastAPI.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriramravichanran&theme=dark&hide_border=true&show_icons=true&include_all_commits=true)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sriramravichanran&theme=dark&hide_border=true)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriramravichanran&theme=dark&hide_border=true&layout=compact)
 
 ---
 
